@@ -1,5 +1,5 @@
 # OTP-Based-Fraud-Prevention
-OTP-based fraud detection systems are designed to prevent unauthorized access and fraudulent activities by ensuring that the one-time password (OTP) mechanism is not compromised. Below is an outline of how such a system can be developed and the key components involved
+OTP-based fraud prevention systems are designed to prevent unauthorized access and fraudulent activities by ensuring that the one-time password (OTP) mechanism is not compromised. Below is an outline of how such a system can be developed and the key components involved
  
 # Problem
 How to keep businesses safe and secure with next-gen fraud & risk management
